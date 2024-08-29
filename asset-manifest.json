@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/indian-postal-code/static/css/main.e2aee4d3.css",
+    "main.js": "/indian-postal-code/static/js/main.be32d75a.js",
+    "index.html": "/indian-postal-code/index.html",
+    "main.e2aee4d3.css.map": "/indian-postal-code/static/css/main.e2aee4d3.css.map",
+    "main.be32d75a.js.map": "/indian-postal-code/static/js/main.be32d75a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2aee4d3.css",
+    "static/js/main.be32d75a.js"
+  ]
+}
